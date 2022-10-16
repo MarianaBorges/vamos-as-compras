@@ -18,6 +18,7 @@ import {
 import theme from './src/theme/theme';
 import { Home } from './src/screens/Home';
 import { useCallback } from 'react';
+import { AuthProvider } from './src/contexts/auth';
 
 const Container = styled.View`
   flex: 1;
@@ -45,10 +46,12 @@ export default function App() {
     
   return (
     <Container onLayout={onLayoutRootView}>
-      <ThemeProvider theme={theme}>
-        <StatusBar style="light"/>
-          <Home />
-      </ThemeProvider>
+      <AuthProvider>
+        <ThemeProvider theme={theme}>
+          <StatusBar style="light"/>
+            <Register />
+        </ThemeProvider>
+      </AuthProvider>
     </Container>
   );
 }

@@ -6,5 +6,36 @@
       "user": "Mariana",
       "id": 1
     }
-  ]
+  ],
+  "products":[
+    {
+    "id":1,
+    "title": "Boneca",
+    "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
+    "price": 60.9,
+    "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
+  },
+  {
+      "id":2,
+      "title": "Boneca",
+      "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
+      "price": 60.9,
+      "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
+  },
+  {
+      "id":3,
+      "title": "Boneca",
+      "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
+      "price": 60.9,
+      "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
+  },
+  {
+      "id":4,
+      "title": "Boneca",
+      "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
+      "price": 60.9,
+      "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
+  }
+]
+
 }
