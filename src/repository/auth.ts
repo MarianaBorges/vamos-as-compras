@@ -3,7 +3,7 @@ import { User, Login } from "../types/auth";
 
 export async function register(data: User){
     try {
-        const response = await api.post(`/register`,data);
+        const response = await api.post("/signup",data);
         return response.data;
     } catch (error) {
         console.error(error)

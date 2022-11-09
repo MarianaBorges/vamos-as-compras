@@ -29,8 +29,7 @@ export function AuthProvider({children}: AuthProviderProps){
 
     async function registerUser(data: User){
         try {
-            const newUser = await register(user);
-            console.log("Novo usuário", newUser);
+            const newUser = await register(data);
         } catch (error) {
             console.error(error)
         }

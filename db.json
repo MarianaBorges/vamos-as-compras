@@ -5,37 +5,61 @@
       "password": "$2a$10$I2jo0NKDEeQ5vGzvemsyvOulYUVEqEFDYsvcg4gZE39UAjoExRAMa",
       "user": "Mariana",
       "id": 1
+    },
+    {
+      "email": "m@email.com",
+      "password": "$2a$10$dgFiizgSlI3SAnl6MU1rE.HdAAS4oRoW0tUEgFlPe9bHjOejXcRA6",
+      "name": "maria",
+      "id": 2
+    },
+    {
+      "email": "f@gmail.com",
+      "password": "$2a$10$POyFLeKHISgVYywkwCjOVOHmIq41usN1itNDQrrv0YX8/mOvdZFwy",
+      "name": "fulano",
+      "id": 3
+    },
+    {
+      "email": "f@email.com",
+      "password": "$2a$10$KGfPiNCQNgM353WYaFsApe9mMKHab8fK9YfcT3pyKmpf4Wf3HDkzy",
+      "name": "fulano",
+      "id": 4
+    },
+    {
+      "email": "fulano@email.com",
+      "password": "$2a$10$aIPUo7goT7dXLzQN9ppOCuzNmBmhlyvBwz8lEodA6pWICfyPWWb.6",
+      "name": "Maeia",
+      "controlPassword": "123456",
+      "id": 5
     }
   ],
-  "products":[
+  "products": [
     {
-    "id":1,
-    "title": "Boneca",
-    "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
-    "price": 60.9,
-    "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
-  },
-  {
-      "id":2,
+      "id": 1,
       "title": "Boneca",
       "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
       "price": 60.9,
       "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
-  },
-  {
-      "id":3,
+    },
+    {
+      "id": 2,
       "title": "Boneca",
       "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
       "price": 60.9,
       "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
-  },
-  {
-      "id":4,
+    },
+    {
+      "id": 3,
       "title": "Boneca",
       "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
       "price": 60.9,
       "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
-  }
-]
-
+    },
+    {
+      "id": 4,
+      "title": "Boneca",
+      "desc": "lsfçmsd fkdfmksd mfk klfsd mmfsd fkdsfm",
+      "price": 60.9,
+      "photoUrl": "https://images.tcdn.com.br/img/img_prod/727032/boneca_bebe_te_quero_949_1_2bb5a0f480a692aa4b6702e1bcb5f18f.jpg"
+    }
+  ]
 }
